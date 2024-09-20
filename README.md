@@ -50,7 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  />
-
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="35" alt="nuget logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
   <img width="15" />
